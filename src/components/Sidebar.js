@@ -7,7 +7,7 @@ import { IconContext } from 'react-icons/lib';
 import { FaCalculator, FaEdgeLegacy, FaIcons, FaShoppingCart } from 'react-icons/fa';
 
 const Nav = styled.div`
-  background: rgb(63, 64, 65);
+  background: #2034E5;
   height: 80px;
   display: flex;
   justify-content: flex-start;
@@ -25,7 +25,7 @@ const NavIcon = styled(Link)`
 
 const SidebarNav = styled.nav`
   margin-top:70px;
-  background: rgb(63, 64, 65);
+  background: #2034E5;
   width: 250px;
   height: 100vh;
   display: flex;

@@ -7,12 +7,12 @@ import * as RiIcons from 'react-icons/ri';
 export const SidebarData = [
   {
     title: 'Mahsulot',
-    path: '/overview',
+    path: '/reports',
     icon: <FaIcons.FaCartPlus />,
   },
   {
     title: 'Mijoz',
-    path: '/reports',
+    path: '/overview',
     icon: <IoIcons.IoMdPeople />,
   },
   {
